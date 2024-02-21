@@ -1,2 +1,3 @@
 # SauceDemo
-AT test
+## AT test
+### clean test -DsuiteFile=testNG.xml
